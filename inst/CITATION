@@ -1,0 +1,14 @@
+citHeader("To cite scoreHCA in publications use:")
+
+ bibentry(
+   bibtype = "Article",
+   title = "A multi-organ map of the human immune system across age, sex and ethnicity",
+   author = as.person(" Stefano Mangiola [aut]"),
+   journal  = "BiorXiv",
+   year = "2024",
+   volume   = "",
+   publisher = "",
+   url = "https://doi.org/10.1101/2023.06.08.542671"
+ )
+
+
