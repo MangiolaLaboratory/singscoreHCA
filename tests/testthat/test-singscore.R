@@ -1,6 +1,6 @@
 
 test_that("singscore", {
-   singscoreHCA(
+   singsingscoreHCA(
      c("CD3G", "CD8A"),
      tissue = "lung",
      cell_type = "t_nk"

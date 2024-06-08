@@ -1,5 +1,5 @@
 \name{NEWS}
-\title{News for Package \pkg{scoreHCA}}
+\title{News for Package \pkg{singscoreHCA}}
 
 \section{Changes in version 0.5.0, CRAN Release}{
 \itemize{

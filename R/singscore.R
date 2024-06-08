@@ -9,7 +9,7 @@
 #' @return A data frame with singscore results.
 #'
 #' @examples
-#' singscoreHCA(c("CD3G", "CD8A"), tissue = "lung", cell_type = "t_nk")
+#' singsingscoreHCA(c("CD3G", "CD8A"), tissue = "lung", cell_type = "t_nk")
 #'
 #' @importFrom dplyr distinct
 #' @importFrom dplyr filter
@@ -19,7 +19,7 @@
 #' @importFrom CuratedAtlasQueryR get_pseudobulk
 #'
 #' @export
-singscoreHCA <- function(
+singsingscoreHCA <- function(
     upSet,
     downSet = NULL,
     tissue = get_metadata() |> distinct(tissue_harmonised) |> pull(),

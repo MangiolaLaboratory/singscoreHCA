@@ -1,4 +1,4 @@
-citHeader("To cite scoreHCA in publications use:")
+citHeader("To cite singscoreHCA in publications use:")
 
  bibentry(
    bibtype = "Article",
